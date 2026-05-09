@@ -14,7 +14,7 @@ Download python
 Download visual studio code
 
 You will first need to register a bot with the Discord developper portal and then add the bot to the server that you want (make sure bot has administrator privileges).
-Once the bot is created copy the token of your bot and paste it at line 17.
+Once the bot is created copy the token of your bot and paste it in the quotation marks at line 48.
 
 Install requirements :
 ```
