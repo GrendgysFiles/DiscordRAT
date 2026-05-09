@@ -7,3 +7,4 @@ pyautogui
 browserhistory
 mss
 pynput
+pyinstaller
