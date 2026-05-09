@@ -1,0 +1,9 @@
+discord.py
+requests
+comtypes
+pycaw
+pywin32
+pyautogui
+browserhistory
+mss
+pynput
