@@ -9,7 +9,7 @@ This tool is for educational use only, the author will not be held responsible f
 
 ## **Setup Guide:**
  
-Download python 
+Download python  
 
 Download visual studio code
 
