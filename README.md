@@ -3,7 +3,7 @@ Discord Remote Administration Tool fully written in Python.
 
 This is a RAT controlled over Discord with over 20 post exploitation modules.
 
-## **Disclaimer:**
+## **Disclaimer:** 
 
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
 
