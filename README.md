@@ -7,7 +7,7 @@ This is a RAT controlled over Discord with over 20 post exploitation modules.
 
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
 
-## **Setup Guide:**
+## **Setup Guide:** 
  
 Download python  
 
