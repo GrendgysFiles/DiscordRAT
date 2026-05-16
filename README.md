@@ -25,7 +25,7 @@ Now your bot should be available to use !
 
 **Requirements:**\
 Python,Windows(x64)
-
+ 
 **Compiling to exe (optional):**\
 If you want to compile the bot to exe you can use PyInstaller.\
 Inside the directory of the bot execute 
